@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+}
